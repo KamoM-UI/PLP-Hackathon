@@ -12,4 +12,6 @@ Welcome to my portfolio project. This is a showcase of the skills I learned in t
 
 I am very grateful for you viewing my project. Please feel free to provide feedback so I can improve my skills.
 
-Please download the files and open using microsoft edge.
+Open my [Portfolio](file:///C:/Users/kamoh/OneDrive/Documents/html%20assignment/cmd/HTML-assignment/portfolio.html).
+
+
